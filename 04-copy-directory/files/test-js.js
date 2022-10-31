@@ -1,1 +1,1 @@
-console.log('Hello test');
+console.log('Hello test');E:\HTM-builder\HTML-builder\04-copy-directory\new-files\test-js.jsE:\HTM-builder\HTML-builder\04-copy-directory\new-files\test-js.jsE:\HTM-builder\HTML-builder\04-copy-directory\new-files\test-js.js
